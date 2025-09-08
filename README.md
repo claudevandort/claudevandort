@@ -6,7 +6,7 @@ I ❤️ witnessing the impact that high quality products can make
 
 ### 🔭 Currently
 - **Cofounder & CTO** at [Kalamar.digital](https://kalamar.digital/) - Building automated digital marketing optimization platforms, maximizing return of ad spend
-- Developing serverless solutions with python serverless backend in AWS, Next.js frontend, and managing infrastructure with Cloudformation.
+- Developing serverless solutions with python serverless backend in AWS, Next.js frontend in CloudFront, and managing infrastructure with Cloudformation.
 - Scaling email marketing applications with highly parallel processing
 
 ### 💼 Experience Highlights
