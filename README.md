@@ -5,15 +5,15 @@
 I ❤️ witnessing the impact that high quality products can make
 
 ### 🔭 Currently
-- **Cofounder & CTO** at [Kalamar.digital](https://kalamar.digital/) - Building automated digital marketing optimization platforms
-- Developing serverless solutions with AWS and Next.js
+- **Cofounder & CTO** at [Kalamar.digital](https://kalamar.digital/) - Building automated digital marketing optimization platforms, maximizing return of ad spend
+- Developing serverless solutions with python serverless backend in AWS, Next.js frontend, and managing infrastructure with Cloudformation.
 - Scaling email marketing applications with highly parallel processing
 
 ### 💼 Experience Highlights
 - **13+ years** in software development and cloud engineering
 - **Tech Leadership** at ComunidadFeliz/HappyHOA (managed Cloud team, improved architecture)
 - **Full-stack expertise** across multiple domains: fintech, proptech, event management
-- **Cloud-first approach** with extensive AWS and serverless experience
+- **Cloud-first approach** with extensive AWS and serverless experience, always looking to architect reliable cost-efficient systems
 
 ### 🎓 Education
 - **Master's in Artificial Intelligence** - Universidad Adolfo Ibañez (2019-2022)
