@@ -53,7 +53,6 @@ Git • VS Code • Cursor • Claude Code • RSpec • pytest
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-claudioguerravera-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/claudioguerravera/?locale=en_US)
 [![Email](https://img.shields.io/badge/Email-claudevandort@gmail.com-red?style=flat-square&logo=gmail)](mailto:claudevandort@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-+63%209%20764%2069%207937-green?style=flat-square&logo=phone)](tel:+639764697937)
 
 ---
 
