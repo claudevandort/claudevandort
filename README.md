@@ -10,7 +10,7 @@ I ❤️ witnessing the impact that high quality products can make
 - Scaling email marketing applications with highly parallel processing
 
 ### 💼 Experience Highlights
-- **13+ years** in software development and cloud engineering
+- **14+ years** in software development and cloud engineering
 - **Tech Leadership** at ComunidadFeliz/HappyHOA (managed Cloud team, improved architecture)
 - **Full-stack expertise** across multiple domains: fintech, proptech, event management
 - **Cloud-first approach** with extensive AWS and serverless experience, always looking to architect reliable cost-efficient systems
@@ -30,6 +30,11 @@ Python • JavaScript • Ruby • SQL • R • C++ • Assembly
 ```
 AWS Lambda Powertools • FastAPI • React • Ruby on Rails
 AWS • Docker • Terraform • AWS SAM • CloudFormation
+```
+
+**LLMs/Agents**
+```
+Agents • Workflows • MCP • RAG
 ```
 
 **AI/ML & Data**
